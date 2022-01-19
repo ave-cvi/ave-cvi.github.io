@@ -15,7 +15,17 @@ All members are expected to follow the [AVE Code of Conduct](https://www.variant
 Please visit the [AVE Alliance website](https://www.varianteffect.org/workstreams) for information on other workstreams.
 
 ### Workstream Lead(s): 
-* Interim contact: [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20CVI%20Workstream)
+* Lea Starita and Clare Turnbull
+
+### Project Manager: 
+* [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20CVI%20Workstream)
 
 ### Workstream Members:
-* TBA
+* Lea Starita (co-chair) 
+* Clare Turnbull (co-chair) 
+* Rachel Karchin
+* Alex Wagner 
+* Brian Shirts 
+* Tina Pesaran 
+* Jonathan Sanford Berg
+* Fritz Roth
