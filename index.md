@@ -10,8 +10,6 @@ The Clinical Variant Interpretation (CVI) workstream resolves issues relating to
 
 All members are expected to follow the [AVE Code of Conduct](https://www.varianteffect.org/code-of-conduct).
 
-[Meeting minutes](https://docs.google.com/document/d/1iXnn70Zkt1vR3zp2hINXiVb3amrhC2LwRWwwGqw4bUQ/edit) and [other workstream documents](https://drive.google.com/drive/folders/12B_o24O1PoBUsTzHsE8708WFk8_Q-Dpb) are hosted in the [AVE Alliance Members Google Drive](https://drive.google.com/drive/folders/0AB1IMnWMCvviUk9PVA).
-
 Please visit the [AVE Alliance website](https://www.varianteffect.org/workstreams) for information on other workstreams.
 
 ### Workstream Lead(s): 
