@@ -21,9 +21,16 @@ Please visit the [AVE Alliance website](https://www.varianteffect.org/workstream
 ### Workstream Members:
 * Lea Starita (co-chair) 
 * Clare Turnbull (co-chair) 
-* Rachel Karchin
-* Alex Wagner 
-* Brian Shirts 
-* Tina Pesaran 
 * Jonathan Sanford Berg
+* Jeffrey Calhoun
+* Sali Farhan
+* Rocio Acuna-Hidalgo
+* Sujatha Jagannathan
+* Rachel Karchin
+* Tina Pesaran 
+* Elizabeth Radford
 * Fritz Roth
+* Brian Shirts 
+* Amanda Spurdle
+* San Ming Wang
+* Alex Wagner 
