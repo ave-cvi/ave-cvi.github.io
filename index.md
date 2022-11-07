@@ -7,6 +7,19 @@ The Clinical Variant Interpretation (CVI) workstream resolves issues relating to
 * Develop approaches for integrating variant effect maps with other sources of information in clinical interpretation
 * Establish best practices for evaluating/benchmarking clinical utility of variant effect maps
 * Exemplify use of variant effect maps in diagnostic practice
+	
+The Clinical Variant Interpretation (CVI) group is currently embarking on projects around:
+* Standardizing truth sets
+* A clinical prioritization strategy for development of MAVES
+* Establishing guidelines for :
+  * Combining evidence from MAVE with other available evidence
+  * Using intermediate results from MAVES
+  * Combining data from multiple assays (concordant/discordant)
+* Working with other workstreams and other stakeholders to
+  * Set guidelines for identifying assays (cell function) that are more reliable predictors of human pathogenicity
+  * Set guidelines for use of MAVE data in somatic variant interpretation
+  * Establish frameworks for the quantitative conversion of MAVE data to strength of evidence
+
 
 All members are expected to follow the [AVE Code of Conduct](https://www.varianteffect.org/code-of-conduct).
 
