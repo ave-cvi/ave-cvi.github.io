@@ -32,23 +32,4 @@ Please visit the [AVE Alliance website](https://www.varianteffect.org/workstream
 * [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20CVI%20Workstream)
 
 ### Workstream Members:
-* Lea Starita (co-chair) 
-* Clare Turnbull (co-chair) 
-* Rocio Acuna-Hidalgo
-* Jonathan Sanford Berg
-* Jeffrey Calhoun
-* Fergus Couch
-* Sali Farhan
-* Sujatha Jagannathan
-* Rachel Karchin
-* Tina Pesaran 
-* Elizabeth Radford
-* Fritz Roth
-* Brian Shirts 
-* Amanda Spurdle
-* Alex Wagner 
-* San Ming Wang
-
-
-Previous members:
-* Keith Nykamp
+* https://www.varianteffect.org/workstreams
